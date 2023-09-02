@@ -1,9 +1,11 @@
+
+
+![image-center](/assets/images/bitp.png){: .align-center}
+
 <center>
 <h2>Profile</h2>
-
-![alt](/assets/images/bitp.png)
 <br>
-**Junbit** <br>
+Junbit <br>
 Major: Business Administration <br>
 Trading areas: stocks, cryptocurrencies, derivatives, etc. <br>
 Development language: Python, C/C++
