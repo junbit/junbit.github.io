@@ -25,7 +25,7 @@ High-frequency trading <br>
 
 <h2>Contact</h2>
 
-[Git](https://github.com/junbit)
+[Git](https://www.github.com/junbit).
 
 </center>
 
