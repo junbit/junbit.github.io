@@ -3,7 +3,7 @@
 
 ![alt](/assets/images/bitp.png)
 <br>
-Junbit <br>
+**Junbit** <br>
 Major: Business Administration <br>
 Trading areas: stocks, cryptocurrencies, derivatives, etc. <br>
 Development language: Python, C/C++
@@ -15,7 +15,7 @@ Development and operation of KOSPI/KOSDAQ stock algorithm short-term trading sys
 Development and operation of a high-frequency trading system using ML (2023) <br> 
 Development of cryptocurrency automatic grid trading system (2023) <br>
 
-<h2>Current InterestPermalink</h2>
+<h2>Current Interest</h2>
 
 Machine learning/deep learning <br>
 Reinforcement learning <br>
