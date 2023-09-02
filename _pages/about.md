@@ -1,6 +1,6 @@
 
 
-![image-center](/assets/images/bitp.png)
+![image-center](/assets/images/bitp.png){: .align-center}
 
 
 <center>
