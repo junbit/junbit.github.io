@@ -1,6 +1,9 @@
 **Profile**
 
 ![alt](/assets/images/bitp.png)
-Junbit
+
+Junbit \n
+ Major in Business Administration
+
 
 
