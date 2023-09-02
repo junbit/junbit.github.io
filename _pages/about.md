@@ -5,7 +5,6 @@
 
 <center>
 <h2>Profile</h2>
-<br>
 Junbit <br>
 Major: Business Administration <br>
 Trading areas: stocks, cryptocurrencies, derivatives, etc. <br>
