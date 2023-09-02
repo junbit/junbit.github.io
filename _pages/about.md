@@ -1,6 +1,7 @@
 
 
-![image-center](/assets/images/bitp.png){: .align-center}
+![image-center](/assets/images/bitp.png)
+
 
 <center>
 <h2>Profile</h2>
