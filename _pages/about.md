@@ -1,3 +1,4 @@
+<center>
 <h2>Profile</h2>
 
 ![alt](/assets/images/bitp.png)
@@ -24,6 +25,7 @@ High-frequency trading <br>
 
 Git: https://github.com/junbit
 
+</center>
 
 
 
